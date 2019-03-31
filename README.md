@@ -1,2 +1,3 @@
-# CS1632-D2
-It is contained by ruby_rush.rb, main.rb, all_tests.rb and .rubocop.yml
+#D2
+It is contained by ruby_rush.rb, main.rb, all_tests.rb and .rubocop.yml.
+Ruby digging game written in ruby and the unit tests written in ruby which test the game.
